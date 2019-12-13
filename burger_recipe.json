@@ -1,0 +1,33 @@
+{
+  "title": "Recipe Puppy",
+  "version": 0.1,
+  "href": "http://www.recipepuppy.com/",
+  "results": [
+      {
+        "title": "Devious Diners Devilishly Delicious Southwest Burger",
+        "href":
+          "http://www.recipezaar.com/Devious-Diners-Devilishly-Delicious-Southwest-Burger-232118",
+        "ingredients":
+          "buffalo, buns, onion rings, green chilies, guacamole, jalapeno, lettuce, salsa, sour cream, taco seasoning, tomato",
+        "thumbnail": "http://img.recipepuppy.com/346462.jpg"
+      },
+      {
+        "title": "Bergy's Wowser'  (As in Wow) Burger BLTmc",
+        "href":
+          "http://www.recipezaar.com/Bergys-Wowser-As-in-Wow-Burger-BLTmc-116049",
+        "ingredients":
+          "bacon, cheese, garlic, mushroom, hot sauce, sandwich rolls, beef, salad greens, salt, onions, tomato, worcestershire sauce",
+        "thumbnail": "http://img.recipepuppy.com/163145.jpg"
+      },  
+    
+     {"toolong":"...editedout..."},
+     
+     {
+      "title": "A Doozie of a Floozie Burger",
+      "href": "http://www.recipezaar.com/A-Doozie-of-a-Floozie-Burger-231245",
+      "ingredients":
+        "butter, cajun seasoning, cheese, dill pickle, eggs, ground beef, hamburger bun, lettuce, mayonnaise, black pepper, mushroom, onions, tomato",
+      "thumbnail": "http://img.recipepuppy.com/36244.jpg"
+    }
+  ]
+}
